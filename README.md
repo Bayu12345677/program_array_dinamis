@@ -17,3 +17,4 @@ dan akan ada pilihan untuk user memulai lagi atau keluar
 ![](https://github.com/Bayu12345677/program_array_dinamis/blob/main/img/Screenshot_20220307-210507~2.png)
 
 
+<code>ikuti juga <a href="https://youtu.be/G7CwHRd8h-s">youtube</a> saya</code>
