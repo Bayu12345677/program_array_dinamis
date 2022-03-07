@@ -3,7 +3,7 @@
      <img src="https://img.shields.io/static/v1?logo=json&label=Author&message=Polygon&color=green"><br>
      <img src="https://img.shields.io/static/v1?logo=github&label=maintance&message=no&color=red">
       <img src="https://img.shields.io/static/v1?logo=apache&label=open%20source&message=yes&color=yellow"><br>
-       <img src="https://img.shields.io/static/v1?logo=react&label=program&message=Array+dinamis=gray">
+       <img src="https://img.shields.io/static/v1?logo=react&label=program&message=Array+dinamis&color=gray">
 </p>
 
 <br>
