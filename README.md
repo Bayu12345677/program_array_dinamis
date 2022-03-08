@@ -16,13 +16,14 @@ cd program_array_dinamis/
 ```
 
 berfungsi untuk demo array dinamis yg bisa kita tambahkan menambahkan
-melakukan penambahan jumlah isi array & subrow array (maksimum 7 subrow)
+melakukan penambahan jumlah isi array & subrow array 
 dan akan ada pilihan untuk user memulai lagi atau keluar
 
 <code>contoh nya seperti di bawah <a href="https://github.com/Bayu12345677/program_array_dinamis/">ini</a></code>
 
 ![](https://github.com/Bayu12345677/program_array_dinamis/blob/main/img/Screenshot_20220307-210507~2.png)
 
+<br>
 <br>
 
 <code>ikuti juga <a href="https://youtu.be/G7CwHRd8h-s">youtube</a> saya</code>
